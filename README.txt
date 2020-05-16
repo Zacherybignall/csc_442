@@ -7,5 +7,5 @@ Andrew Merrow
 Linh Nguyen
 Ross Piraino
 
-in this repo we have the program that worked teh best and some of the floder that we all wanted to work on for challenge sin cyber storm 
-it is only bits and pieces of the  challenges beacuse it was faster to just upload want was needed on the shared google drive or discord 
+In this repo we have the program that worked the best and some of the floders that we all wanted to work on for challenges in cyber storm 
+it is only bits and pieces of the challenges beacuse it was faster to just upload want was needed on the shared google drive or discord 
