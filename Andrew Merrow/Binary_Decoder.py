@@ -5,6 +5,7 @@
 #Python 2.7
 #############################################
 import sys
+
 #variables are created for 7 and 8 bit decoding
 bit_7 = list()
 bit_8 = list()
